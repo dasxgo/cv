@@ -2,17 +2,16 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: John
+  first: David 
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I'm just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: Sarmiento 
+about: I'm a proactive person, an excellentteammate, organized and responsible. Ireally enjoy learning new things, 
+        so mygoal is a challenging and dynamic positionwhere I can share my experience and atthe same time add new knowledge.
+position: Data Anlysis
 
 birth:
-  year: 1990
-  location: New York
+  year: 1985
+  location: Bogota D.C
 
 # you may add more experiences by duplicating the template
 
