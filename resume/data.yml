@@ -16,26 +16,26 @@ birth:
 # you may add more experiences by duplicating the template
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
+- company: MyForexunds
+  position: Profesional Trader
+  timeperiod: since April 2023
+  description: Financial market analysis and forex.
   website: https://example.com
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Freelance
+  position: Data Developer
+  timeperiod: October 2022 - Present 
+  description: Data Science and Data Analysis.
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: Grefix
+  position: CEO
+  timeperiod: Febreury 2013 - March 2023
+  description: Management, sales, bussiness intelkligence and data analysis.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
+- degree: Enviromental and Sanitary Engineer
+  timeperiod: Febreaury 2000 - April 2008
+  description: Bachelor, La Salle University, Bogota D.C, COL.
   website: https://example.com
 
 - degree: Bachelor of Science
@@ -86,12 +86,12 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: davidasarmiento@gmail.com
+  phone: + 57 300 884 4680
+  street: Kra. 46 A No. 29 A Sur - 25 
+  city: Envigado, COL
+  website: dasxgo@github.io
+  github: dasxgo
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
-lang: en
+lang: en - Nivel B1
 `
